@@ -848,3 +848,103 @@ width: 330px;
 height: 46px;
 margin-top: 30px;
 }
+.hero1{
+   background-image: url(./images/artist-background.png);
+   height: 50vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-top: 20px;
+}
+.animakid-h2{
+   color: white;
+font-size: 51px;
+font-family: Work Sans;
+font-weight: 600;
+text-transform: capitalize;
+line-height: 56.10px;
+margin-top: 30px;
+}
+.animakid-small{
+   color: #858584;
+font-size: 22px;
+font-family: Space Mono;
+font-weight: 700;
+text-transform: capitalize;
+line-height: 35.20px;
+padding-top: 30px;
+}
+.animakid-p{
+   color: white;
+font-size: 22px;
+font-family: Work Sans;
+font-weight: 400;
+text-transform: capitalize;
+line-height: 35.20px;
+margin-top: 10px;
+}
+.animakid-img{
+   width: 120px;
+   height: 120px;
+   transform: translateY(-60px);
+}
+.animakid-right-left-button{
+   color: white;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 600;
+line-height: 22.40px;
+background-color: #A259FF;
+border-radius: 20px;
+border: none;
+width: 186px;
+height: 60px;
+}
+.animakid-right-right-button{
+   color: white;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 600;
+line-height: 22.40px;
+background-color: transparent;
+border: 2px solid #A259FF;
+border-radius: 20px;
+width: 145px;
+height: 60px;
+margin-left: 20px;
+}
+.animakid-right{
+   display: flex;
+   align-items: center;
+}
+.animakid-button{
+   transform: scale(1.5);
+   margin-right: 12px;
+}
+.animakid-top{
+   display: flex;
+   justify-content: space-between;
+align-items: flex-start;
+}
+
+.discover{
+   width: 100%;
+   background-color:  #3B3B3B;
+}
+.discover-cards-box1{
+   width: 330px;
+   height: 460px;
+   background-color:#2B2B2B;
+   border-radius: 20px;
+   margin-top: 30px;
+}
+.discover-cards-box1-bottom{
+   padding: 20px 30px;
+   background-color: #2B2B2B;
+}
+.discover-cards1{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 60px 0px;
+   flex-wrap: wrap;
+}
