@@ -163,3 +163,91 @@ margin-left: 20px;
     margin-left: 20px;
     margin-top: 10px;
 }
+.trending-top{
+   margin-top: 160px;
+}
+.trending-top-h2{
+   color: white;
+font-size: 38px;
+font-family: Work Sans;
+font-weight: 600;
+text-transform: capitalize;
+line-height: 45.60px;
+}
+.trending-top-p{
+   color: white;
+font-size: 22px;
+font-family: Work Sans;
+font-weight: 400;
+text-transform: capitalize;
+line-height: 35.20px;
+margin-top: 10px;
+}
+.trending-cards{
+   margin-top: 60px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.trending-cards-box-img{
+   width: 330px;
+   height: 330px;
+}
+.trending-cards-box-center-img{
+   width: 100px;
+   height: 100px;
+}
+.trending-cards-box-bottom-bottom-img{
+   width: 24px;
+   height: 24px;
+}
+.trending-cards-box{
+   width: 330px;
+}
+.trending-cards-box-center{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 15px;
+}
+.trending-cards-box-bottom{
+margin-top: 15px;
+}
+.trending-cards-box-bottom-bottom{
+   display: flex;
+   align-items: center;
+   margin-top: 10px;
+}
+.trending-cards-box-bottom-h3{
+   color: white;
+font-size: 22px;
+font-family: Work Sans;
+font-weight: 600;
+text-transform: capitalize;
+line-height: 30.80px;
+}
+.trending-cards-box-bottom-bottom-span{
+   color: white;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 400;
+line-height: 22.40px;
+margin-left: 12px;
+}
+.trending-cards-box-center-box-h3{
+   color: white;
+font-size: 22px;
+font-family: Space Mono;
+font-weight: 700;
+text-transform: capitalize;
+line-height: 35.20px;
+}
+.trending-cards-box-center-box{
+   background-color: #A259FF;
+   width: 100px;
+   height: 100px;
+   border-radius: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
