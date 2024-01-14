@@ -694,3 +694,66 @@ line-height: 22.40px;
 margin-top: 10px;
 text-align: center;
 }
+.contact-img{
+   width: 425px;
+   height: 310px;
+}
+.contact{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: #413e3e;
+   padding: 60px;
+   margin-top: 120px;
+   border-radius: 20px;
+   margin-bottom: 80px;
+}
+.contact-right-h2{
+   color: white;
+font-size: 38px;
+font-family: Work Sans;
+font-weight: 600;
+text-transform: capitalize;
+line-height: 45.60px;
+}
+.contact-right{
+   width: 425px;
+}
+.contact-right-p{
+   color: white;
+font-size: 22px;
+font-family: Work Sans;
+font-weight: 400;
+text-transform: capitalize;
+line-height: 35.20px;
+margin-top: 10px;
+}
+.contact-right-form-input{
+   color: white;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 600;
+line-height: 22.40px;
+padding: 16px 20px;
+border-radius: 20px;
+}
+.contact-right-button{
+   color: white;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 600;
+line-height: 22.40px;
+padding: 16px 50px;
+background-color: #A259FF;
+border: none;
+border-radius: 20px;
+transform: translateX(-40px);
+}
+.bx-envelope{
+   transform: scale(1.5);
+   margin-right: 12px;
+}
+.contact-right-form{
+   display: flex;
+   margin-top: 40px;
+}
