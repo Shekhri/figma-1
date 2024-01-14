@@ -533,3 +533,110 @@ font-family: Space Mono;
 font-weight: 400;
 line-height: 22.40px;
 }
+.magic{
+   margin-top: 80px;
+   background: -webkit-linear-gradient(180deg, rgb(207, 154, 201), rgb(132, 82, 182));
+background: -moz-linear-gradient(180deg, rgb(207, 154, 201), rgb(132, 82, 182));
+background: linear-gradient(180deg, rgb(207, 154, 201), rgb(132, 82, 182));
+}
+.magic-siction{
+  margin-bottom: 60px
+}
+.magic-top-top{
+   padding: 180px;
+}
+.magic-top{
+   width: 151px;
+   height: 44px;
+   background-color: #2B2B2B;
+   padding: 10px 20px;
+   border-radius: 20px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.magic-top-img{
+   width: 24px;
+   height: 24px;
+}
+.magic-top-p{
+   color: white;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 400;
+line-height: 22.40px;
+}
+.magic-h2{
+   color: white;
+font-size: 51px;
+font-family: Work Sans;
+font-weight: 600;
+text-transform: capitalize;
+line-height: 56.10px;
+margin-top: 30px;
+}
+.magic-bottom-left-button{
+   background-color: white;
+   color: #2B2B2B;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 600;
+line-height: 22.40px;
+border: none;
+padding: 22px 50px;
+border-radius: 20px;
+width: 198px;
+height: 60px;
+margin-top: 30px;
+margin-bottom: 60px;
+}
+.magic-bottom{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.magic-card{
+   width: 295px;
+   height: 147px;
+   border-radius: 20px;
+   background-color: #6d3cad7e;
+   padding: 30px;
+}
+.magic-card-ul{
+   list-style-type: none;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.magic-card-p{
+   color: white;
+font-size: 12px;
+font-family: Space Mono;
+font-weight: 400;
+line-height: 13.20px;
+}
+.magic-card-ul-li-h2{
+   color: white;
+font-size: 38px;
+font-family: Space Mono;
+font-weight: 700;
+text-transform: capitalize;
+line-height: 45.60px;
+margin-top: 10px;
+}
+.magic-card-ul-li-p{
+   color: white;
+font-size: 12px;
+font-family: Space Mono;
+font-weight: 400;
+line-height: 13.20px;
+margin-top: 5px;
+}
+.magic-card-ul-p{
+   color: white;
+font-size: 28px;
+font-family: Space Mono;
+font-weight: 700;
+text-transform: capitalize;
+line-height: 39.20px;
+}
