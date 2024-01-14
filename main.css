@@ -432,3 +432,104 @@ text-transform: capitalize;
 line-height: 30.80px;
 margin: 20px 30px;
 }
+.discover{
+   margin-top: 80px;
+}
+.discover-h2{
+   color: white;
+font-size: 38px;
+font-family: Work Sans;
+font-weight: 600;
+text-transform: capitalize;
+line-height: 45.60px;
+margin-top: 80px;
+}
+.discover-top{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.discover-top-p{
+   color: white;
+font-size: 22px;
+font-family: Work Sans;
+font-weight: 400;
+text-transform: capitalize;
+line-height: 35.20px;
+}
+.discover-top-button{
+   color: white;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 600;
+line-height: 22.40px;
+width: 187px;
+height: 60px;
+border: 2px solid #A259FF;
+background-color: transparent;
+border-radius: 20px;
+}
+.discover-cards{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 60px;
+}
+.discover-cards-box{
+   width: 330px;
+   height: 460px;
+   background-color: #858584;
+   border-radius: 20px;
+}
+.discover-cards-box-img{
+   width: 330px;
+   gap: 296px;
+}
+.discover-cards-box-bottom{
+   padding: 20px 30px;
+   background-color: #424240;
+}
+.discover-cards-box-bottom-h3{
+   color: white;
+font-size: 22px;
+font-family: Work Sans;
+font-weight: 600;
+text-transform: capitalize;
+line-height: 30.80px;
+}
+.discover-cards-box-bottom-top{
+   display: flex;
+   align-items: center;
+}
+.discover-cards-box-bottom-top-img{
+   width: 24px;
+   height: 24px;
+}
+.discover-cards-box-bottom-top-p{
+   color: white;
+font-size: 16px;
+font-family: Space Mono;
+font-weight: 400;
+line-height: 22.40px;
+margin-left: 12px;
+}
+.discover-cards-box-bottom-bottom{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 25px;
+}
+.discover-cards-box-bottom-bottom-left-small{
+   color: #858584;
+font-size: 12px;
+font-family: Space Mono;
+font-weight: 400;
+line-height: 13.20px;
+}
+.discover-cards-box-bottom-bottom-left-p{
+   color: white;
+font-size: 16px;
+font-family: Space Mono;
+font-weight: 400;
+line-height: 22.40px;
+}
