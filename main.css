@@ -41,6 +41,7 @@ img {
    display: flex;
    justify-content: space-between;
    align-items: center;
+   background-color: #2B2B2B;
 }
 
 .header-right {
@@ -947,4 +948,7 @@ align-items: flex-start;
    align-items: center;
    padding: 60px 0px;
    flex-wrap: wrap;
+}
+a{
+   text-decoration: none;
 }
