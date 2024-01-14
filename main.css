@@ -809,3 +809,42 @@ line-height: 35.20px;
    justify-content: space-between;
    align-items: center;
 }
+.account-img{
+   width: 610px;
+   height: 691px;
+}
+.account{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 20px;
+}
+.account-right{
+   margin-left: 60px;
+}
+.account-form-input{
+   color: #2B2B2B;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 400;
+line-height: 22.40px;
+width: 330px;
+height: 46px;
+padding: 16px 30px;
+border-radius: 20px;
+border: none;
+margin-top: 15px;
+}
+.account-form-button{
+   color: white;
+font-size: 16px;
+font-family: Work Sans;
+font-weight: 600;
+line-height: 22.40px;
+background-color: #A259FF;
+border: none;
+border-radius: 20px;
+width: 330px;
+height: 46px;
+margin-top: 30px;
+}
